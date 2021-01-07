@@ -3,7 +3,7 @@
 ### App Description
 This interactive and functional app allows the user to alter a label's text by simply typing a custom text in a text field and clicking the "Change Text String" button. The user can also click two other buttons to change the view controller's color and the label's text color with the "Change View Color" and "Change Text Color" buttons, respectively.
 
-### App Walk-through
+### App Walk-Through
 <img src="https://i.imgur.com/1sQbpl8.gif" width=200><br>
 
 ### Required User Stories
